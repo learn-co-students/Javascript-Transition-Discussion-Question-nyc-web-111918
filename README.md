@@ -1,4 +1,4 @@
-# Creating Transitions with Vanilla JS
+# Creating Transitions with Vanilla JS - An awesome project
 
 _*Be warned, this discussion question may be scary to some viewers*_
 
